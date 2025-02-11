@@ -1663,6 +1663,7 @@ export default [
         "code": "RL",
         "logo": "https://image.tiqwa.com/airlines/RL.png",
         "name": "Royal Falcon"
+        
     },
     {
         "code": "XK",
